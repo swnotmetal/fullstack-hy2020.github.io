@@ -947,7 +947,7 @@ Verify that the frontend works after making your changes.
 
 #### 3.18*: Phonebook database step6
 
-Also update the handling of the <i>api/persons/:id</i> and <i>info</i> routes to use the database, and verify that they work directly with the browser, Postman, or VS Code REST client.
+Also update the handling of the <i>api/persons/:id</i> and <i>info</i> (Reminder: it should include the total number of contacts from the database or you can check previous materials for references) routes to use the database, and verify that they work directly with the browser, Postman, or VS Code REST client.
 
 Inspecting an individual phonebook entry from the browser should look like this:
 
